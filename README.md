@@ -52,3 +52,7 @@ python main.py --T 5 --sampled_time irregular --baseline BDG --gpu -1 --weight_d
 ### Output
 
 If the `--dump` option is used, the results will be saved in the `results/cognitive/` directory.
+
+### Dataset Download
+
+GoogleDrive：https://drive.google.com/file/d/11Vh3IK6VIlNUKgmbQkXQwVmVti8EXuhm/view?usp=drive_link
